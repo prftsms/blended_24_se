@@ -1,4 +1,19 @@
-def greeting():
-    print("Hello world!")
-greeting()
-    
+# Task8
+def invite_to_event(username):
+
+    return f"Dear {username}, we have the honour to invite you to our event" 
+
+
+
+# Task9
+
+def discount_price(price, discount):
+  
+    def apply_discount():
+
+        nonlocal price
+        price = price * (1 - discount)
+    apply_discount()
+   
+    return price
+# Task10

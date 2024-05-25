@@ -1,8 +1,3 @@
-class Car:
-    # write your code here
+def some_function():
     pass
 
-
-class CarWashStation:
-    # write your code here
-    pass

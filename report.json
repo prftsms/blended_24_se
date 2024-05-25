@@ -1,0 +1,116 @@
+{
+    "customers": {
+        "c8ecf5e6-0046-4f20-baaf-044ce2a78e8e": {
+            "customer_id": "c8ecf5e6-0046-4f20-baaf-044ce2a78e8e",
+            "name": "Ashlee Smith",
+            "mail": "michael03@example.org",
+            "phone": "308.610.2028x47281"
+        },
+        "93fad42c-efe8-4f6f-8982-409d5e81f835": {
+            "customer_id": "93fad42c-efe8-4f6f-8982-409d5e81f835",
+            "name": "Patrick Cabrera",
+            "mail": "michelle37@example.net",
+            "phone": "281-736-6485x821"
+        },
+        "484f1c3e-3720-409f-8c3d-6f50b972b51c": {
+            "customer_id": "484f1c3e-3720-409f-8c3d-6f50b972b51c",
+            "name": "Cynthia Davis",
+            "mail": "kchan@example.org",
+            "phone": "(290)878-0420"
+        },
+        "ce2961c0-2537-4320-8347-2a1863c2fa8b": {
+            "customer_id": "ce2961c0-2537-4320-8347-2a1863c2fa8b",
+            "name": "Elaine Johnson",
+            "mail": "aschneider@example.org",
+            "phone": "609.232.7200"
+        },
+        "720f47c2-27b6-4cae-b131-3e8174de9898": {
+            "customer_id": "720f47c2-27b6-4cae-b131-3e8174de9898",
+            "name": "Andrea Lewis",
+            "mail": "pamela40@example.org",
+            "phone": "001-639-324-7950x2479"
+        }
+    },
+    "orders": {
+        "32ed0092-d825-4d71-b4ad-f05a532c594c": {
+            "order_id": "32ed0092-d825-4d71-b4ad-f05a532c594c",
+            "customer_id": "484f1c3e-3720-409f-8c3d-6f50b972b51c",
+            "product": "fund",
+            "quantity": 3,
+            "price": "$8,988.43",
+            "status": "pending"
+        },
+        "559a7f00-57b0-46fe-8cbb-1f747d98524e": {
+            "order_id": "559a7f00-57b0-46fe-8cbb-1f747d98524e",
+            "customer_id": "ce2961c0-2537-4320-8347-2a1863c2fa8b",
+            "product": "upon",
+            "quantity": 4,
+            "price": "$73.28",
+            "status": "pending"
+        },
+        "7460cad0-3225-4202-aceb-201c5f1278d0": {
+            "order_id": "7460cad0-3225-4202-aceb-201c5f1278d0",
+            "customer_id": "c8ecf5e6-0046-4f20-baaf-044ce2a78e8e",
+            "product": "box",
+            "quantity": 4,
+            "price": "$50.60",
+            "status": "pending"
+        },
+        "ab9bc979-4c46-456d-9e90-43ff43dc391f": {
+            "order_id": "ab9bc979-4c46-456d-9e90-43ff43dc391f",
+            "customer_id": "ce2961c0-2537-4320-8347-2a1863c2fa8b",
+            "product": "not",
+            "quantity": 8,
+            "price": "$9,685.15",
+            "status": "pending"
+        },
+        "a9edc818-081c-44e9-84d9-96599576f332": {
+            "order_id": "a9edc818-081c-44e9-84d9-96599576f332",
+            "customer_id": "484f1c3e-3720-409f-8c3d-6f50b972b51c",
+            "product": "impact",
+            "quantity": 1,
+            "price": "$80,584.68",
+            "status": "pending"
+        },
+        "db0be91d-3ba8-462b-8659-d1add6105c86": {
+            "order_id": "db0be91d-3ba8-462b-8659-d1add6105c86",
+            "customer_id": "484f1c3e-3720-409f-8c3d-6f50b972b51c",
+            "product": "sea",
+            "quantity": 8,
+            "price": "$85,885.60",
+            "status": "pending"
+        },
+        "1a6a1e1e-ad3f-43d6-abfa-bcd5a79fa900": {
+            "order_id": "1a6a1e1e-ad3f-43d6-abfa-bcd5a79fa900",
+            "customer_id": "ce2961c0-2537-4320-8347-2a1863c2fa8b",
+            "product": "how",
+            "quantity": 4,
+            "price": "$1.24",
+            "status": "pending"
+        },
+        "3e5c496a-34de-40a5-be1d-6ea5b818d18b": {
+            "order_id": "3e5c496a-34de-40a5-be1d-6ea5b818d18b",
+            "customer_id": "484f1c3e-3720-409f-8c3d-6f50b972b51c",
+            "product": "one",
+            "quantity": 6,
+            "price": "$93,083.13",
+            "status": "pending"
+        },
+        "537cd3b8-7a97-4c32-9aaa-37a404157a4e": {
+            "order_id": "537cd3b8-7a97-4c32-9aaa-37a404157a4e",
+            "customer_id": "93fad42c-efe8-4f6f-8982-409d5e81f835",
+            "product": "shoulder",
+            "quantity": 9,
+            "price": "$6,400.50",
+            "status": "pending"
+        },
+        "ea75babe-cd23-4dd3-b4f6-09955d3dca89": {
+            "order_id": "ea75babe-cd23-4dd3-b4f6-09955d3dca89",
+            "customer_id": "720f47c2-27b6-4cae-b131-3e8174de9898",
+            "product": "have",
+            "quantity": 7,
+            "price": "$59.75",
+            "status": "pending"
+        }
+    }
+}
